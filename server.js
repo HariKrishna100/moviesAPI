@@ -5,10 +5,7 @@
 *  (including web sites) or distributed to other students.
 * 
 *  
-Name: Aryan Khurana 
-Student ID: 145282216 
-Date: 13 May 2023
-Cyclic Link: https://dull-jade-badger-vest.cyclic.app
+
 *
 *
 ********************************************************************************/ 
